@@ -1,4 +1,4 @@
-## Angular Demo App V3 (WIP)
+## Angular CRM V3 (WIP)
 
 > A reusable Angular starter project for real-world business based on Angular 19, Angular-Material 19.x.
 
@@ -9,14 +9,14 @@ This project was built with [Angular CLI](https://angular.dev/tools/cli) version
 
 ```bash
 # Clone project
-git clone https://github.com/harryho/ng-crm.git
+git https://github.com/SorinTalentDev/angular-crm-web.git
 
 
 # Install Angular CLI
 npm install -g @angular/cli
 
 # prepare Json-Server as fake Restful API
-cd ng-crm
+cd angular-crm-web
 
 
 # Install the packages with npm
