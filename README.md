@@ -9,7 +9,7 @@ This project was built with [Angular CLI](https://angular.dev/tools/cli) version
 
 ```bash
 # Clone project
-git https://github.com/SorinTalentDev/angular-crm-web.git
+git https://github.com/Fullstack-Topdev/angular-crm-web.git
 
 
 # Install Angular CLI
